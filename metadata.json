@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard Keuangan Mushalla As Salaam",
+  "description": "An interactive dashboard to display and manage the financial transactions of Mushalla As Salaam. It features key financial metrics, a filterable and downloadable transaction history, a QRIS donation section, and a form to add new transactions.",
+  "requestFramePermissions": []
+}
